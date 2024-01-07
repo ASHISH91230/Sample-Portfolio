@@ -1,6 +1,6 @@
 # Sample-Portfolio
 sample portfolio made for ThumbStack
-# My Awesome Portfolio
+# My Portfolio
 
 Welcome to my portfolio! 🚀 This is a showcase of my skills and projects, built using HTML, CSS, and JavaScript. Feel free to explore and get to know more about me and my work.
 
